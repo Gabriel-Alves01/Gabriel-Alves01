@@ -25,10 +25,6 @@
 <!-- GithubStats -->
 ![Gabriel-Alves01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Alves01&show_icons=true&theme=gotham)
 
-<img src="https://raw.githubusercontent.com/Gabriel-Alves01/Gabriel-Alves01/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!-- Portfolio
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
